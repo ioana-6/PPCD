@@ -1,14 +1,3 @@
-# <PSEUDOCOD>
-#departament_achizitii (rank 0)
- #    primeste de la manager (rank 1) un ordin (tip int - cate caiete?????)
-  #   transmite celor 3 angajati (rank 2, 3, 4) cate caiete trebuie????
-
-#angajatii (2, 3, 4)
-  #genereaza oferte de tip array (numar +pret/unitate)
-  #trimite inapoi la manager
-
-#manager ()
-  # primeste ofertele si genereaza o combinatie    
                                       
 import random
 import time
