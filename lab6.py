@@ -34,8 +34,8 @@ match rank:
         sum_rank_1 = sum(rank_1_throws)
         print(f"Sum of values thrown by process {rank} is {sum_rank_1}")
     case 2:
+        #Throw thrice
         rank_2_throws = random_1_6(3)
-        print(f"Process {rank} threw a {rank_2_throws}")
         #Sum values
         sum_rank_2 = sum(rank_2_throws)
         print(f"Sum of values thrown by process {rank} is {sum_rank_2}")
